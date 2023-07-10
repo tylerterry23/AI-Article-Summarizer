@@ -2,6 +2,10 @@
 
 This repository contains the code for a web application that uses OpenAI's GPT model to summarize lengthy articles. Developed by [Your Name], the application features a modern user interface and uses the Redux toolkit for state management.
 
+## Preview
+![Example Image](example.png)
+View the live application [here](https://ai-summarizer-tsquared.vercel.app/).
+
 ## Table of Contents
 1. [General Info](#general-info)
 2. [Technologies](#technologies)
