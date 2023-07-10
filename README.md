@@ -22,7 +22,7 @@ The "Article Summarizer" web application is designed to simplify the process of 
 
 This project is created with:
 * React
-* vite
+* Vite
 * Tailwind CSS
 * Redux Toolkit
 * OpenAI API (through RapidAPI)
