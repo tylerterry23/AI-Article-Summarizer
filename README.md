@@ -32,16 +32,24 @@ This project is created with:
 To run this project locally, follow these steps:
 
 1. Clone the repository:
+```
 $ git clone https://github.com/tylerterry23/article-summarizer.git
+```
 
-2. Go into the repository:
+3. Go into the repository:
+```
 $ cd article-summarizer
+```
 
-3. Install dependencies:
+5. Install dependencies:
+```
 $ npm install
+```
 
-4. Start the local server:
+7. Start the local server:
+```
 $ npm start
+```
 
 Before starting, make sure to visit [RapidAPI](https://rapidapi.com/) to sign up or log in. We use their AI Summarizer API, which extracts and summarizes information from an article provided its URL.
 
